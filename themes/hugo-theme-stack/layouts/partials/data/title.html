@@ -31,7 +31,7 @@
         {{ $title = $title | append " - " .Paginator }}
     {{ end }} 
 
-    {{ $title = $title | append " - " $siteTitle }}
+    {{ $title }}
     {{ $title = delimit $title "" }}
 {{- end -}}
 
