@@ -184,11 +184,6 @@ menu:
           url: https://github.com/EnthusiasticProgram/enthusiasticprogram
           params:
             icon: brand-github
-        - identifier: scratch
-          name: Scratch
-          url: https://scratch.mit.edu/users/-p-e-n-/
-          params:
-            icon: brand-scratch
             
 related:
     includeNewer: true
