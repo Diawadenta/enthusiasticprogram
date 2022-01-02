@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="icon icon-tabler icon-tabler-brand-github"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   stroke-width="2"
+   stroke="currentColor"
+   fill="none"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="brand-scratch.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10">
+    
+    
+    
+  
+      
+    
+        
+      
+          
+          
+          
+          
+          
+          
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          
+              
+              
+            
+              
+              
+            </defs>
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="25.043365"
+     inkscape:cx="9.6233073"
+     inkscape:cy="19.146788"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     stroke="none"
+     d="M0 0h24v24H0z"
+     fill="none"
+     id="path2" />
+  <path
+     d="M 11.567643,6.6322817 C 10.964971,6.5301694 10.336088,6.479136 9.6023855,6.5301694 8.3708315,6.5812292 7.1916765,7.0151619 7.1916765,7.0151619 L 4.0210525,4.9986167 c -0.104883,-0.051052 -0.23583,0.025514 -0.20962,0.1276294 l 0.550272,4.5691325 c 0.157221,-0.204202 -2.777551,3.2673124 -0.917114,6.1772634 1.860438,2.909952 5.817144,4.21177 10.7433825,3.267312 4.92624,-0.944456 6.079205,-3.701252 5.764765,-5.156228 -0.314442,-1.454975 -2.1749,-1.991018 -2.1749,-1.991018 0,0 -0.02617,-1.148664 -0.864714,-2.5525894 C 16.415273,8.5977664 14.738246,7.3980477 14.738246,7.3980477 L 14.056964,4.6667795 c -0.02617,-0.1021115 -0.15722,-0.1276286 -0.23583,-0.076574 z"
+     stroke="#001026"
+     stroke-width="1.2"
+     fill="#ffab19"
+     id="path842"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 19.402465,13.371115 c 0,0 1.886627,-0.02552 3.118201,-0.99551"
+     id="whisker"
+     stroke="#001026"
+     stroke-width="1.2"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 19.507265,14.877141 c 0,0 1.021934,0.484992 2.672751,0.357364"
+     id="path847"
+     stroke="#001026"
+     stroke-width="1.2"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1.4793335,12.299028 c 0,0 2.253489,0.714723 3.170602,1.506027"
+     id="path850"
+     stroke="#001026"
+     stroke-width="1.2"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1.6627645,14.851616 c 0,0 1.939047,0.280786 3.065781,-0.153146"
+     id="path852"
+     stroke="#001026"
+     stroke-width="1.2"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>
