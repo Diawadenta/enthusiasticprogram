@@ -13,7 +13,7 @@ menu:
 
 * [Gasukaku's WebSite](https://gasukaku.glitch.me) by [@gasukaku07](https://scratch.mit.edu/users/gasukaku07/)
 
-* [nebanebakunの公式サイト](https://nebaneba-nikki.glitch.me/DIARY.html) by [@nebanebakun](https://scratch.mit.edu/users/nebanebakun/)
+* [nebaneba diary](https://nebaneba-nikki.glitch.me/DIARY.html) by [@nebanebakun](https://scratch.mit.edu/users/nebanebakun/)
 
 * [K-site](https://613482be66713.site123.me/) by [@ketiketi87](https://scratch.mit.edu/users/ketiketi87/)
 
