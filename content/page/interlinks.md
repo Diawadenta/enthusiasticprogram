@@ -1,7 +1,7 @@
 ---
 title: 相互リンク
 description: 互いのサイトにリンクを表示しています。
-lastmod: '2021-12-04'
+lastmod: '2022-01-04'
 license: false
 menu:
     main: 
@@ -13,7 +13,7 @@ menu:
 
 * [Gasukaku's WebSite](https://gasukaku.glitch.me) by [@gasukaku07](https://scratch.mit.edu/users/gasukaku07/)
 
-* [nebanebakunの公式サイト](https://kuwagatasan.github.io/nebanebakun-mainpage/) by [@nebanebakun](https://scratch.mit.edu/users/nebanebakun/)
+* [nebanebakunの公式サイト](https://nebaneba-nikki.glitch.me/DIARY.html) by [@nebanebakun](https://scratch.mit.edu/users/nebanebakun/)
 
 * [K-site](https://613482be66713.site123.me/) by [@ketiketi87](https://scratch.mit.edu/users/ketiketi87/)
 
