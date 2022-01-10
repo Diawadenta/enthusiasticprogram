@@ -21,7 +21,7 @@ menu:
 
 * [Yukkkuの手帳](https://yukkku.github.io/) by [@yukku](https://scratch.mit.edu/users/yukku/)
 
-* [Tangent LAB](https://tan-10.github.io/) by [@tan-10](https://scratch.mit.edu/users/tan-10/)
+* [Tangent LAB](https://tan-lab.net) by [@tan-10](https://scratch.mit.edu/users/tan-10/)
 
 * [developermodoki's Pages](https://developermodoki.github.io/pages/) by [@Windows1000000_2](https://scratch.mit.edu/users/Windows1000000_2)
 
